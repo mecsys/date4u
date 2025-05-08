@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: "date4u"
+  main:
+    banner-mode: "off"
